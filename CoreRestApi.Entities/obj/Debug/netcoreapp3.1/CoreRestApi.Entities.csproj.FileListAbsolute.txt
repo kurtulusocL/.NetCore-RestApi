@@ -1,0 +1,16 @@
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Entities\bin\Debug\netcoreapp3.1\CoreRestApi.Entities.deps.json
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Entities\bin\Debug\netcoreapp3.1\CoreRestApi.Entities.runtimeconfig.json
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Entities\bin\Debug\netcoreapp3.1\CoreRestApi.Entities.runtimeconfig.dev.json
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Entities\bin\Debug\netcoreapp3.1\CoreRestApi.Entities.dll
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Entities\bin\Debug\netcoreapp3.1\CoreRestApi.Entities.pdb
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Entities\bin\Debug\netcoreapp3.1\CoreRestApi.Core.dll
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Entities\bin\Debug\netcoreapp3.1\CoreRestApi.Core.pdb
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Entities\obj\Debug\netcoreapp3.1\CoreRestApi.Entities.csproj.AssemblyReference.cache
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Entities\obj\Debug\netcoreapp3.1\CoreRestApi.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Entities\obj\Debug\netcoreapp3.1\CoreRestApi.Entities.AssemblyInfoInputs.cache
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Entities\obj\Debug\netcoreapp3.1\CoreRestApi.Entities.AssemblyInfo.cs
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Entities\obj\Debug\netcoreapp3.1\CoreRestApi.Entities.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Entities\obj\Debug\netcoreapp3.1\CoreRestApi.Entities.csproj.CopyComplete
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Entities\obj\Debug\netcoreapp3.1\CoreRestApi.Entities.dll
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Entities\obj\Debug\netcoreapp3.1\CoreRestApi.Entities.pdb
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Entities\obj\Debug\netcoreapp3.1\CoreRestApi.Entities.genruntimeconfig.cache

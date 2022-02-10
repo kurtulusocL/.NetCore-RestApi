@@ -1,0 +1,13 @@
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Core\bin\Debug\netcoreapp3.1\CoreRestApi.Core.deps.json
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Core\bin\Debug\netcoreapp3.1\CoreRestApi.Core.runtimeconfig.json
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Core\bin\Debug\netcoreapp3.1\CoreRestApi.Core.runtimeconfig.dev.json
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Core\bin\Debug\netcoreapp3.1\CoreRestApi.Core.dll
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Core\bin\Debug\netcoreapp3.1\CoreRestApi.Core.pdb
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Core\obj\Debug\netcoreapp3.1\CoreRestApi.Core.csproj.AssemblyReference.cache
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Core\obj\Debug\netcoreapp3.1\CoreRestApi.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Core\obj\Debug\netcoreapp3.1\CoreRestApi.Core.AssemblyInfoInputs.cache
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Core\obj\Debug\netcoreapp3.1\CoreRestApi.Core.AssemblyInfo.cs
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Core\obj\Debug\netcoreapp3.1\CoreRestApi.Core.csproj.CoreCompileInputs.cache
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Core\obj\Debug\netcoreapp3.1\CoreRestApi.Core.dll
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Core\obj\Debug\netcoreapp3.1\CoreRestApi.Core.pdb
+C:\Users\kurtulusocL\Desktop\CoreRestApi\CoreRestApi.Core\obj\Debug\netcoreapp3.1\CoreRestApi.Core.genruntimeconfig.cache
